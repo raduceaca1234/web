@@ -1,0 +1,27 @@
+form{
+    display: flex;
+    margin-top: 5px;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+    margin:0 auto;
+    background-color: aqua;
+    text-align: center;
+}
+
+input{
+    margin-top: 5px;
+}
+
+table{
+    border: 1px dodgerblue;
+    font-family: "Britannic Bold";
+}
+
+td{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
